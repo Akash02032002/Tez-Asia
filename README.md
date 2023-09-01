@@ -21,16 +21,16 @@ It is an NFT DApp for posting tweets anonymously and also getting public support
 
 ## Quick Demos
 
-### [LIVE Demo WEBSITE](https://tez-talk.vercel.app/)
+### [LIVE Demo WEBSITE](https://tez-asia.vercel.app/)
 ### [Demo on Ghostnet Testnet](https://better-call.dev/ghostnet/KT1DwzJoHV3mZMEZybunYY83QbsRmekRK9yd/operations)
 ### [Demo on YouTube](https://www.youtube.com/watch?v=qzdak9Fi_WA)
 ### [Docs of TEZ TALK](https://drive.google.com/file/d/1kAi3wyTv9tF9vtyuwt-QGJPG67vJowYY/view)
 
 
 ## Team Info:-
-## Team Name : Akashverse
-## Team Member : Akash Kumar
-## Email : aksahkumar02032002@gmail.com
+### Team Name : Akashverse
+### Team Member : Akash Kumar
+### Email : aksahkumar02032002@gmail.com
 
 
 ## Contract Address info
