@@ -11,6 +11,11 @@
 
 <img width="127" alt="c" src="https://user-images.githubusercontent.com/84145371/231584189-f2ba7260-ff64-46b1-bd45-e963edda9857.png">
 
+<img width="949" alt="Screenshot 2023-09-01 073703" src="https://github.com/Akash02032002/Tez-Asia/assets/84145371/50d69909-565b-483b-ae0b-044cc02937d6">
+
+<img width="945" alt="Screenshot 2023-09-01 073719" src="https://github.com/Akash02032002/Tez-Asia/assets/84145371/ade83bb7-9c95-42f6-9d04-4220ce802852">
+
+
 
 It is an NFT DApp for posting tweets anonymously and also getting public support in the form of anonymous donations which will be secured on Tezos Blockchain.
 
@@ -19,7 +24,7 @@ It is an NFT DApp for posting tweets anonymously and also getting public support
 ### [LIVE Demo WEBSITE](https://tez-talk.vercel.app/)
 ### [Demo on Ghostnet Testnet](https://better-call.dev/ghostnet/KT1DwzJoHV3mZMEZybunYY83QbsRmekRK9yd/operations)
 ### [Demo on YouTube](https://www.youtube.com/watch?v=qzdak9Fi_WA)
-### [Docs of TEZ TALK](https://drive.google.com/file/d/1dq1S1zAgtGN95K9lu77Ph1is5suFmaT2/view?usp=drivesdk)
+### [Docs of TEZ TALK](https://drive.google.com/file/d/1kAi3wyTv9tF9vtyuwt-QGJPG67vJowYY/view)
 
 
 ## Team Info:-
